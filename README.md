@@ -1,7 +1,7 @@
 # 2011–2020 社會經濟與人口趨勢互動式視覺化分析
 ### Socio-Economic & Demographic Trend Interactive Visualization (2011–2020)
 
-## 🏆 專案成就
+## 🏆 作品成就
 * **校內視覺化分析競賽：第二名**
   * 本作品開發於大三「視覺化分析」課程，並在校內競賽中獲得高度評價。
 
