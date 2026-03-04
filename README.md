@@ -40,3 +40,10 @@
 ## 📎 附件與展示
 * **動態演示**：請參閱專案目錄下之 `成品.gif` 以了解操作邏輯。
 * **原始數據**：詳細處理過程與數據結構請參考資料夾中之 Excel 附件。
+
+### 📫 聯繫方式 (Contact Info)
+* **GitHub**: [[你的 GitHub 連結](https://github.com/chenshun910330)]
+* **Email**: [David910330D1d1d1d150@gmail.com]
+* **Phone**: 0965447093
+---
+**林辰訓 (Lin Chen-xun)** 數學系 
